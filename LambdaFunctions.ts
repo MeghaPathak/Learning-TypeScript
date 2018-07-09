@@ -1,6 +1,11 @@
 /* Lamba Expressions*/
 
-var foo = (x: string) => { 
+
+//(params : paramtype) : return type => { //code }
+
+//This is an example of lambda as function Expression
+
+var foo = (x: string) : void  => { 
     alert(x) 
 }
 foo("Megha") //Alerts Megha
