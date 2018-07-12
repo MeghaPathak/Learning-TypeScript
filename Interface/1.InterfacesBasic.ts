@@ -51,3 +51,8 @@ var obj2 : Person = {
     name :"ABC",
     greet: (x) => { return "Hello" + x }
 }
+
+
+function doSomething(p:Person){   //<-- you can also pass interface's object like this
+
+}

@@ -28,5 +28,7 @@ class Employee extends Person {
 }
 
 
-var p = new Employee("Megha");
+let p = new Employee("Megha");
+let q:Person = new Employee("Megha")  // <-- Dynamic binding
+
 p.greet();

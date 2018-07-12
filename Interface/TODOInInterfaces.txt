@@ -1,0 +1,6 @@
+I have left the following topic in Interfaces: https://www.typescriptlang.org/docs/handbook/interfaces.html
+
+- Function types 
+- Indexable Types
+- Class Types
+- Hybrid Types
