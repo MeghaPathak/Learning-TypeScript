@@ -6,7 +6,7 @@
     Functions − Functions represent actions an object can take. They are also at times referred to as methods.
  * Use 'this' to have current object's context
  */
-
+//test
 class Person { 
     name: string; //fields
     constructor(name: string) { //constructor 
