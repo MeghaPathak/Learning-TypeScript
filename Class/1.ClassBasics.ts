@@ -12,10 +12,10 @@ class Person {
     constructor(name: string) { //constructor 
         this.name = name;
     };
-    greet(): void {  //function
+    greeeet(): void {  //function
         alert("Hello" + this.name);
     }
 }
 
 var p = new Person("Megha");
-p.greet();
+p.greeeet();

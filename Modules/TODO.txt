@@ -1,0 +1,3 @@
+I only read till before : 'Optional Module Loading and Other Advanced Loading Scenarios'
+
+Please do : Calculator.ts in https://www.typescriptlang.org/docs/handbook/modules.html

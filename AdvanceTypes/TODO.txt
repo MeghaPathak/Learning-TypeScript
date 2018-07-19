@@ -1,0 +1,7 @@
+TODO :
+1. instance of and type of tyep guards
+2.Interface and aliases.  <--- I don't see this as a major concept
+
+3. Enum members and Union
+4. Index types
+5. Mapped Types
